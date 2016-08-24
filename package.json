@@ -1,0 +1,17 @@
+{
+  "name": "knex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "knex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "knex": "0.11.10",
+    "pg":"*",
+    "express":"*",
+     "bookshelf":"0.10.0"
+  }
+}
